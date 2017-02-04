@@ -31,9 +31,3 @@ driver.find_element_by_id("signIn").click()
 driver.get_screenshot_as_file("D:\\workspace_python\\Python_Selenium\\Screenshots\\click.png")
 driver.quit()
 
-
-
-
-
-
-#driver.quit()
